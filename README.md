@@ -36,7 +36,7 @@ Navegue até a pasta do projeto e rode:
 ```bash
 git add .
 git commit -m "Mensagem do commit"
-git push
+git push //Mandando as alterações commitadas para a branch
 ```
 
 ---
