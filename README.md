@@ -1,5 +1,5 @@
 
-# Hello World
+# Minoro fez alterações
 # Fluxo Básico de Uso do Git com GitHub
 
 Este documento descreve o passo a passo para configurar um repositório Git local a partir do GitHub, fazer commits, push, pull e rollback.
