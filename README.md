@@ -1,5 +1,5 @@
 
-
+# Hello World
 # Fluxo Básico de Uso do Git com GitHub
 
 Este documento descreve o passo a passo para configurar um repositório Git local a partir do GitHub, fazer commits, push, pull e rollback.
@@ -23,7 +23,7 @@ Ainda no GitHub, copie os comandos que ele gera, depois no terminal do projeto:
 ```bash
 git init //Incio do projeto
 git add . //Adicionar TOTOS os arquivos para o commit
-git commit -m "Primeiro commit"
+git commit -m "Primeiro commit" //Entre aspas é marcada o nome da alteração NUNCA POR PUTARIA
 ```
 Agora cole os comandos que vc copiou 
 
