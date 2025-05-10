@@ -53,6 +53,12 @@ git pull
 ```bash
 git checkout -b nova-branch branch-que-vc-quer-clonar
 ```
+5.1 Fazendo pull request
+
+```bash
+após alteração na branch fazer pull request para juntar branchs
+```
+
 ---
 6. Como desfazer um commit local (rollback antes do push)
 
